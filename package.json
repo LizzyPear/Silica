@@ -1,0 +1,12 @@
+{
+  "name": "silica",
+  "version": "2020.1.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {},
+  "author": "Lizzy",
+  "license": "MIT",
+  "dependencies": {
+    "electron-winstaller": "^5.0.0"
+  }
+}
